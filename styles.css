@@ -97,7 +97,7 @@ a:hover {
   }
   
   .features .grid-item {
-    background-color: white;
+    background-color: #0982b6;
     padding: 1.5rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
@@ -105,7 +105,7 @@ a:hover {
   }
   
   .features .grid-item h3 {
-    color: #4caf50;
+    color: #c506bd;
   }
 
 
